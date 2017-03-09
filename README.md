@@ -10,6 +10,6 @@ you need to install Gson library to have game save/resume function, more informa
 Otherwise you can comment out a few lines of code related to Gson (error lines) and disable save/resume function
 
 # Run
-main method is inside Drive.java, comile all java files and run the game with the command java Drive or just run it in any Java IDE such as Eclipse
+main method is inside Drive.java, compile all java files using "javac" command and run the game with the command "java Drive" or just run it in any Java IDE such as Eclipse
 
 
