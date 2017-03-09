@@ -2,7 +2,8 @@
 Game M.U.L.E simulating EA's M.U.L.E released in 1983 
 https://en.wikipedia.org/wiki/M.U.L.E.
 a multiplayer turn-based strategy game in which players can buy lands, develop and harvest various forms of resources and trade them with other players.
-- Practice of Object-Oriented Programming with Java, fully animated.
+
+Practice of Object-Oriented Programming with Java, fully animated.
 
 # Setup
 you need to install Gson library to have game save/resume function, more information about Gson: https://github.com/google/gson
